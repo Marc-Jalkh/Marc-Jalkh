@@ -21,7 +21,7 @@
 </div>
 
 <div>
-   <img src="https://data.whicdn.com/images/346684507/original.gif">
+   <img src="https://i.imgur.com/wsRchLL.gif">
 
    <h3 align="center "> A afjkahfkhfgakh</h3>
 
@@ -54,7 +54,3 @@
 
 ![Marc's GitHub stats](https://github-readme-stats.vercel.app/api?username=marc-jalkh&theme=react&hide_border=true&show_icons=true)
 
-<div width="200px">
-
-![Marc's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Marc-Jalkh&theme=react&show_icons=true&&hide_border=true)
-</div>
