@@ -54,7 +54,7 @@
 
 ![Marc's GitHub stats](https://github-readme-stats.vercel.app/api?username=marc-jalkh&theme=react&hide_border=true&show_icons=true)
 
-<div float="right">
+<div width="200px">
 
 ![Marc's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Marc-Jalkh&theme=react&show_icons=true&&hide_border=true)
 </div>
