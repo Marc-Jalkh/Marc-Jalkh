@@ -53,3 +53,5 @@
    <h3 align="left"> My Stats </h3>
 
 ![Marc's GitHub stats](https://github-readme-stats.vercel.app/api?username=marc-jalkh&theme=react&hide_border=true&show_icons=true)
+
+![Marc's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Marc-Jalkh&theme=react&show_icons=true&&hide_border=true)
