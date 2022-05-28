@@ -54,3 +54,5 @@
 
 ![Marc's GitHub stats](https://github-readme-stats.vercel.app/api?username=marc-jalkh&theme=react&hide_border=true&show_icons=true)
 
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="marc-jalkh-795aa2233" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://lb.linkedin.com/in/marc-jalkh-795aa2233?trk=profile-badge">Marc Jalkh</a></div>
+              
