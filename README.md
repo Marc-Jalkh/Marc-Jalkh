@@ -27,8 +27,6 @@
 
 - 📙 Languages : Arabic, French, English.
 
-- 🏆 Interests  : New Technologies, Internet of Things, Music ( I'm a guitarist )...
-
 - 💻 Currently Working on  : Nthg Yet.
 
 </div>
