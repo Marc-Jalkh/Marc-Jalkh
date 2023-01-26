@@ -23,7 +23,7 @@
 <div>
    <img src="https://i.imgur.com/wsRchLL.gif">
 
-   <h3 align="center "> A afjkahfkhfgakh</h3>
+   <h3 align="center "></h3>
 
 - 📙 Languages : Arabic, French, English.
 
