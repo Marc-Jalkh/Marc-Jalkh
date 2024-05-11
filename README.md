@@ -22,10 +22,6 @@
 
    <h3 align="center "></h3>
 
-- 📙 Languages : Arabic, French, English.
-
-- 💻 Currently Working on  : Nthg Yet.
-
 </div>
 <br>
 <hr>
