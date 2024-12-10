@@ -13,7 +13,7 @@
 -->
 <h1>
   Hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  <img src="https://media.licdn.com/dms/image/v2/D4E16AQGywA50pv07VQ/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1728499823715?e=2147483647&v=beta&t=DaaUP3ZQxdZ1uXmapMwqDS31H7VlOCWszOiNHDtXbn4" width="30px"/>
 </h1><br>
 </div>
 
