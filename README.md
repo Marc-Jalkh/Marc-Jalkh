@@ -25,8 +25,6 @@
 </div>
 <br>
 <hr>
-<br>
-<hr>
    <h3 align="left"> My Stats </h3>
 
 ![Marc's GitHub stats](https://github-readme-stats.vercel.app/api?username=marc-jalkh&theme=react&hide_border=true&show_icons=true)          
