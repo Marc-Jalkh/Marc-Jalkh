@@ -33,5 +33,8 @@
 <!-- Stats Section -->
 <h3 align="left">My Stats</h3>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=marc-jalkh&theme=react&hide_border=true&show_icons=true" alt="Marc's GitHub Stats">
+<img 
+  src="https://github-readme-stats.vercel.app/api?username=marc-jalkh&show_icons=true&theme=react&hide_border=true" 
+  alt="Marc's GitHub Stats"
+  />
 </div>
